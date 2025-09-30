@@ -18,5 +18,12 @@ window.PORTFOLIO_DATA = {
       "date": "2025-09-19T01:10:22-03:00",
       "note": "New deposit"
     }
+      {
+      "id": "tx-2025-09-30-1834",
+      "type": "deposit",
+      "amount": 7.0,
+      "date": "2025-09-30T18:34:00-03:00",
+      "note": "September 30 deposit"
+    }
   ]
 }
