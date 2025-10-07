@@ -26,6 +26,14 @@
   "date": "2025-09-30T18:34:00-03:00",
   "note": "September 30 deposit"
 }
+
+    {
+  "id": "tx-2025-10-07-1738",
+  "type": "deposit",
+  "amount": 5.0,
+  "date": "2025-10-07T17:38:38-03:00",
+  "note": "Incoming transfer"
+}
     
   ]
 }
