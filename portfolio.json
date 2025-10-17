@@ -12,37 +12,41 @@
       "note": "Initial balance"
     },
     {
-  "id": "tx-2025-09-19-001",
-  "type": "deposit",
-  "amount": 6.0,
-  "date": "2025-09-19T01:10:22-03:00",
-  "note": "New deposit"
-}
- 
+      "id": "tx-2025-09-19-001",
+      "type": "deposit",
+      "amount": 6.0,
+      "date": "2025-09-19T01:10:22-03:00",
+      "note": "New deposit"
+    },
     {
-  "id": "tx-2025-09-30-1834",
-  "type": "deposit",
-  "amount": 7.0,
-  "date": "2025-09-30T18:34:00-03:00",
-  "note": "September 30 deposit"
-}
- 
+      "id": "tx-2025-09-30-1834",
+      "type": "deposit",
+      "amount": 7.0,
+      "date": "2025-09-30T18:34:00-03:00",
+      "note": "September 30 deposit"
+    },
     {
-  "id": "tx-2025-10-07-1738",
-  "type": "deposit",
-  "amount": 5.0,
-  "date": "2025-10-07T17:38:38-03:00",
-  "note": "Incoming transfer"
-}
-    
+      "id": "tx-2025-10-07-1738",
+      "type": "deposit",
+      "amount": 5.0,
+      "date": "2025-10-07T17:38:38-03:00",
+      "note": "Incoming transfer"
+    },
     {
-  "id": "tx-2025-10-11-1145-eth",
-  "type": "deposit",
-  "amount": 2.0,
-  "date": "2025-10-11T11:45:10-03:00",
-  "note": "ETH deposit today",
-  "asset": "ETH"
-}
-    
+      "id": "tx-2025-10-11-1145-eth",
+      "type": "deposit",
+      "amount": 2.0,
+      "date": "2025-10-11T11:45:10-03:00",
+      "note": "ETH deposit today",
+      "asset": "ETH"
+    },
+    {
+      "id": "tx-2025-10-16-2111-btc",
+      "type": "deposit",
+      "amount": 10.0,
+      "date": "2025-10-16T21:11:00-03:00",
+      "note": "BTC deposit today",
+      "asset": "BTC"
+    }
   ]
 }
